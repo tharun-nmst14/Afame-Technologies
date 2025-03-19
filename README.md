@@ -1,6 +1,7 @@
 # Afame-Technologies
 ## Data Analyst as intern @Afame Technologies
-"Contributing as a Data Analyst Intern at Afame Technologies—transforming raw data into meaningful insights! 📊🚀 #DataAnalytics #Internship #AfameTechnologies"
+"Contributing as a Data Analyst Intern at Afame Technologies—transforming raw data into meaningful insights! 📊🚀
+#DataAnalytics #Internship #AfameTechnologies"
 # HR DATA ANALYSIS
 1. Data cleansing involves removing unnecessary columns.
 2. Giving the columns new names.
